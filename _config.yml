@@ -5,8 +5,11 @@ description: > # this means to ignore newlines until "baseurl:"
   Wickey King's Personal Blog, Scripting Tutorals of Programming.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
+twitter_username: https://twitter.com/KingWickey?s=09
+github_username:  https://github.com/wickeyking
+facebook_username: https://www.facebook.com/profile.php?id=100007865418879
+Google+_username: https://plus.google.com/u/0/116684043469094656452/posts
+weibo_username: http://weibo.com/3995888460/profile?rightmod=1&wvr=6&mod=personinfo
+bolg_username: http://wickeyking.com
 # Build settings
 markdown: kramdown
